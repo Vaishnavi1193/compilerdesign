@@ -71,3 +71,8 @@ int main()
         printf("%c ",operators[j]);
       }
 }
+OUTPUT:
+enter the string : a=t+r*800+c
+ identifiers : a t r c
+ constants : 32
+ operators : = + * +
