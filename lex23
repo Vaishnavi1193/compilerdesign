@@ -29,15 +29,15 @@ fclose(yyin);
 }
 
 OUTPUT:
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>set path=C:\Program Files\GnuWin32\bin
+C:\Users\VAISHNAVI\OneDrive\Desktop\LEX Compiler Design>set path=C:\Program Files\GnuWin32\bin
 
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>flex lex23.l.txt
+C:\Users\VAISHNAVI\OneDrive\Desktop\LEX Compiler Design>flex lex23.l.txt
 
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>set path=C:\MinGW\bin
+C:\Users\VAISHNAVI\OneDrive\Desktop\LEX Compiler Design>set path=C:\MinGW\bin
 
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>gcc lex.yy.c
+C:\Users\VAISHNAVI\OneDrive\Desktop\LEX Compiler Design>gcc lex.yy.c
 
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>a.exe
+C:\Users\VAISHNAVI\OneDrive\Desktop\LEX Compiler Design>a.exe
 lex23.l.txt
 ^Z
 Number of macros defined = 0
