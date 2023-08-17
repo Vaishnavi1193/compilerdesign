@@ -100,7 +100,7 @@ void addToResultSet(char Result[],char val)
     Result[k]=val;
     Result[k+1]='\0';
 }
-outout
+output
 How many number of productions ? :4
 Enter productions Number 1 : S=AaAb
 Enter productions Number 2 : S=BbBa
