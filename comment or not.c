@@ -42,3 +42,7 @@ void main()
     }
     getch();
 }
+OUTPUT:
+
+ Enter comment://hello
+ It is a comment
